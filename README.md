@@ -1,2 +1,2 @@
-# Graficaci-n
+# Graficacion 
 Curso de graficación
